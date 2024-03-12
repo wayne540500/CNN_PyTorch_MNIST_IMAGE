@@ -40,6 +40,12 @@ Testing:
 
 After training, the model's performance is evaluated on the test dataset to report the final accuracy.
 
+![image](https://github.com/wayne540500/CNN_PyTorch_MNIST_IMAGE/assets/69573286/281d4c16-21f0-44c7-af25-bd9a69705485)
+
+![image](https://github.com/wayne540500/CNN_PyTorch_MNIST_IMAGE/assets/69573286/1c3eb012-94ca-4697-b8ad-90724339180d)
+
+![image](https://github.com/wayne540500/CNN_PyTorch_MNIST_IMAGE/assets/69573286/8736d38a-1067-4f96-91fa-09c068f666f3)
+
 Visualization:
 
 The loss and accuracy over epochs are plotted using Matplotlib, providing insights into the training process.
